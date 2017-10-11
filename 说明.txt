@@ -1,0 +1,2 @@
+java实现二维码生成的几个方法
+	http://www.jb51.net/article/100235.htm
